@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Evertonramos11
+- 👋 Hi, I'm the @Evertonramos11
 - 👀 I’m interested in Programção
 - 🌱 I’m currently learning html,css,javascrit e flutter
-- 💞️ I’m looking to collaborate on desenvolvimento
+- 💞️ I’m looking to collaborate on desenvolvimento web e flutter
 - 📫 How to reach me ...email:evertonram32@gmail.com
 - 😄 Pronouns: Eu fiz o jogo virar ...
 - ⚡ Fun fact: bora codar!
